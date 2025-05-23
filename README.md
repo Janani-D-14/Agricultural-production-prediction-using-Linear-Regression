@@ -20,8 +20,6 @@ To forecast agricultural production based on previous years' crop data, helping 
 - Model evaluation with R² score and RMSE
 
 ## 📁 Files Included
-- `agri_production.ipynb` – Jupyter notebook with full code
-- `data.csv` – Cleaned dataset
 - `README.md` – Project documentation
 
 ## 📈 Output
